@@ -1,5 +1,9 @@
 # Weather-App
-A weather app, made with HTML, CSS and vanillaJS
+A Weather App, After you enter your City Name, it displays the current Degrees, Celcius, Temperature of that city, along with maximum & minimum for the day and also the Humidity.
 
-# What does it do?
-After you enter your city name, it displays the current temperature of that city, along with maximum and minimum for the day and also the humidity!
+### Website Landing Page (Click On It)
+* [Web-Page](https://shahzaibfardeen.github.io/Weather_App/)
+
+### The Way The Web Page Look On Large Screen 
+![Web_Page_Image](Weather.png)
+
